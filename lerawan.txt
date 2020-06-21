@@ -1,1 +1,2 @@
 Repositori untuk berlatih menggunakan github untuk keperluan belajar statistik yang memerlukan ambil file dari github
+Belajar statistik untuk dapat membuat topik disertasi mesin learning
